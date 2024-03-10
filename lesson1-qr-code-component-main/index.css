@@ -1,0 +1,45 @@
+body{
+    background-color: #D5E1EF;
+}
+
+
+#main{
+    background-color: white;
+    width: 40vw;
+    min-width: 250px;
+    max-width: 400px;
+    margin-left: 30vw;
+    margin: auto;
+    margin-top: 20vh;
+    border-radius: 20px;
+    padding: 15px 15px 25px 15px;
+    box-shadow:2px 2px 20px 10px rgb(255, 255, 255 / 20%);  
+    position: relative;
+    /* min-height: 100vh; */
+}
+
+img{
+    width: 98%;
+    border-radius: 20px;
+    margin: auto;
+    margin: auto;
+    display: block;
+}
+
+h1{ 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 30, 63);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: grey;
+}
+.attribution{
+     color: hsl(228, 45%, 44%);
+font-size: 11px;
+width: 100vw;
+text-align: center;}
